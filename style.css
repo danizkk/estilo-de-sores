@@ -1,0 +1,42 @@
+body {
+    background-color: hsl(49, 72%, 56%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: rgb(255, 238, 0);
+}
+
+.Paragrafo {
+    color: rgb(67, 75, 1);
+}
+
+li {
+    color: rgb(25, 0, 255);
+}
+
+.Destaque {
+    background-color: rgb(84, 146, 238);
+}
+.Destaque2{
+    color: blanchedalmond;
+    background-color: rgb(174, 111, 187);
+}
+.Style {
+    color: rgb(179, 255, 0);
+    background-color: rgb(128, 0, 128);
+}
+
+.Texto2 {
+    color: rgb(33, 77, 117);
+}
+
+.Texto {
+    color: green;
+    font-size: larger;
+}
+
+#ID {
+    color: rgb(221, 0, 11);
+    font-size: larger;
+}
